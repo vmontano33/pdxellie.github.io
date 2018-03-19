@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Python Project
+title: Python III: Graphics & Drawing
 ---
+code: 
 import turtle
 
 t = turtle.Turtle()
